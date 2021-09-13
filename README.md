@@ -12,4 +12,4 @@
 #### Link: Url del producto
 ### Todo la información contenida en el Excel esta puesta con la finalidad de acercarse a la realidad.
 ### El archivo busqueda_mpublico.py corresponde al script que realiza la búsqueda de los productos.
-#### Para ejecutar el archivo busqueda_mpublico.py se necesita tener instalado un Intérprete de Python y además intalar librerias como Selenium y Pandas.
+#### Para ejecutar el archivo busqueda_mpublico.py se necesita tener instalado un Intérprete de Python y además instalar librerias como Selenium y Pandas.
