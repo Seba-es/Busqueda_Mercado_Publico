@@ -10,5 +10,6 @@
 #### Receptor del Producto: Nombre de quién recibiría el producto
 #### Convenio Marco: Corresponde al tipo de Convenio Marco, por ejemplo: Aseo, Software, Artículos de Escritorio, entre otros.
 #### Link: Url del producto
-### Todo la información contenida en el Excel esta puesta con la intención simular lo más cerca a lo que ocurre realidad en las organizaciones.
+### Todo la información contenida en el Excel esta puesta con la finalidad de acercarse a la realidad.
 ### El archivo busqueda_mpublico.py corresponde al script que realiza la búsqueda de los productos.
+#### Para ejecutar el archivo busqueda_mpublico.py se necesita tener instalado un Intérprete de Python y además intalar librerias como Selenium y Pandas.
