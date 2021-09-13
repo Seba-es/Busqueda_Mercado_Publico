@@ -5,6 +5,7 @@
 ### El archivo Requerimiento_Productos.xlsx corresponde al Excel en donde estan los productos por buscar.
 ### Allí se pueden encontrar distintas categorías como:
 #### ID: Corresponde al número de identificación del producto
+#### Unidad: Nombre del departamento que realiza el requerimiento
 #### Nombre del Producto: Conjunto de palabras que individualiza al producto
 #### Dirección de Despacho: Lugar de entrega del producto
 #### Receptor del Producto: Nombre de quién recibiría el producto
