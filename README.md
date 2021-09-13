@@ -5,7 +5,7 @@
 ### El archivo Requerimiento_Productos.xlsx corresponde al Excel en donde estan los productos por buscar.
 ### Allí se pueden encontrar distintas categorías como:
 #### ID: Corresponde al número de identificación del producto
-#### Nombre del Producto: Conjuntos de palabras que individualiza al producto
+#### Nombre del Producto: Conjunto de palabras que individualiza al producto
 #### Dirección de Despacho: Lugar de entrega del producto
 #### Receptor del Producto: Nombre de quién recibiría el producto
 #### Convenio Marco: Corresponde al tipo de Convenio Marco, por ejemplo: Aseo, Software, Artículos de Escritorio, entre otros.
