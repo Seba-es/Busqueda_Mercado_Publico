@@ -2,7 +2,7 @@
 ## Este es un proyecto de prueba de automatización con Python, usando Selenium.
 ## Descripción del Proyecto:
 ### A partir de un listado de productos contenidos en un archivo excel, este script busca cada uno de los productos en la Tienda de Mercado Público, tomando en cuenta las distintas categorías existentes.
-### El archivo Requerimiento_Productos.xlsx corresponde al Excel en donde estan los productos por buscar.
+### El archivo Requerimiento_Productos.xlsx corresponde al archivo en formato Excel en donde están los productos por buscar.
 ### Allí se pueden encontrar distintas categorías como:
 #### ID: Corresponde al número de identificación del producto
 #### Unidad: Nombre del departamento que realiza el requerimiento
@@ -11,6 +11,6 @@
 #### Receptor del Producto: Nombre de quién recibiría el producto
 #### Convenio Marco: Corresponde al tipo de Convenio Marco, por ejemplo: Aseo, Software, Artículos de Escritorio, entre otros.
 #### Link: Url del producto
-### Todo la información contenida en el Excel esta puesta con la finalidad de acercarse a la realidad.
+### Toda la información contenida en el archivo Excel está puesta con la finalidad de acercarse lo mayor posible al proceso de compra que ocurre en la realidad de las Organizaciones.
 ### El archivo busqueda_mpublico.py corresponde al script que realiza la búsqueda de los productos.
 #### Para ejecutar el archivo busqueda_mpublico.py se necesita tener instalado un Intérprete de Python y además instalar librerias como Selenium y Pandas.
